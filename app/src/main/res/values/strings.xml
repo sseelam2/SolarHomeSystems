@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SolarHomeSystems</string>
+    <string name="send_button">Send</string>
+    <string name="title_activity_security">SecurityActivity</string>
+    <string name="issue">Issue</string>
+    <string name="description">Description</string>
+    <string name="date">Theft Date</string>
+
+</resources>
